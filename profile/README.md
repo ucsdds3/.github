@@ -1,4 +1,4 @@
-![banner](https://cdn.discordapp.com/attachments/942218891952783421/1153050264320888852/image.png)
+![banner](https://cdn.discordapp.com/attachments/942218891952783421/1153056567298641980/www.ds3ucsd.com_.png)
 
 ## Get Involved
 Right now, Data Science Student Society is building an amazing community, and there are excellent professional & social oppurtunities. If you are looking to get involved,
