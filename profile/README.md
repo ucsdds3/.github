@@ -1,4 +1,4 @@
-![banner](image.png)
+![banner](https://raw.githubusercontent.com/ucsdds3/.github/main/profile/image.png)
 
 ## Get Involved
 Right now, Data Science Student Society is building an amazing community, and there are excellent professional & social oppurtunities. If you are looking to get involved,
